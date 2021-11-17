@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 ---
-[[download CV](http://qinshu-xue.github.io/files/Qinshu_CV_web.pdf)]  
+[[download CV](http://qinshu-xue.github.io/files/Qinshu_CV_web_git.pdf)]  
 
 
