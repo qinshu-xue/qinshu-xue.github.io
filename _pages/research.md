@@ -7,8 +7,8 @@ author_profile: true
 ---
 ## Working Papers
 
-**[Default Risk Heterogeneity and Borrower Selection in the Mortgage Market](http://malin-hu.github.io/files/DRHBS.pdf)** [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3455611)]  
-Updated: July 2021  
+**[Default Risk Heterogeneity and Borrower Selection in the Mortgage Market](http://qinshu-xue.github.io/files/Qinshu_JMP_web)** 
+ 
 >This paper exploits variation from an institutional change in mortgage underwriting standards to document that the debt payment-to-income ratio is not a sufficient measure of default risk.  As a result, households exhibit substantial heterogeneity in their ability to repay conditional on their debt payment-to-income ratios.  To explain this, the paper studies an otherwise standard incomplete-markets life-cycle model with a competitive mortgage market in which lenders have discretion to exempt households whose equilibrium default probability satisfies a creditworthiness threshold from a debt payment-to-income limit.  The model uniquely matches and rationalizes empirical patterns of default risk heterogeneity in the mortgage market.  The model highlights welfare gains resulting from policy reforms that increase lender flexibility.
 
 **[Sovereign Debt Composition in Advanced Economies: A Historical Perspective](http://malin-hu.github.io/files/SDCAE.pdf)** [[IMF WP No. 14/162](https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Sovereign-Debt-Composition-in-Advanced-Economies-A-Historical-Perspective-41899), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2504950), [VoxEU](https://voxeu.org/article/advanced-economies-sovereign-debt-100-years-data)]  
