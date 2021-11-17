@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "malin-hu.github.io"
+title                    : "qinshu-xue.github.io"
 title_separator          : "-"
-name                     : &name "Malin Hu"
-description              : &description "Assistant Professor, Vanderbilt University Department of Economics"
-url                      : https://malin-hu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Qinshu Xue"
+description              : &description "Ph.D. candidate, Cornell University Department of Economics"
+url                      : https://qinshu-xue.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "malin-hu/malin-hu.github.io"
+repository               : "qinshu-xue/qinshu-xue.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Malin Hu"
+  name             : "Qinshu Xue"
   avatar           : "profile.png"
-  bio              : "Assistant Professor, Vanderbilt University Department of Economics"
-  location         : "Nashville, TN"
+  bio              : "Ph.D. candidate, Cornell University Department of Economics"
+  location         : "Ithaca, NY"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=dMg236sAAAAJ"
-  email            : "malin.hu@vanderbilt.edu"
+  googlescholar    : 
+  email            : "qx48@cornell.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -106,7 +106,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "malinian"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
