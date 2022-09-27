@@ -1,8 +1,9 @@
 ---
 layout: single
-title: "Contact"
+title: ""
 permalink: /contact/
 author_profile: true
+
 ---
 ---
 **Office**  
