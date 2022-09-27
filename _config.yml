@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "qinshu-xue.github.io"
 title_separator          : "-"
 name                     : &name "Qinshu Xue"
-description              : &description "Ph.D. candidate, Cornell University Department of Economics"
+description              : &description "Assistant Professor, Shanghai Jiao Tong University Antai College of Economics and Management"
 url                      : https://qinshu-xue.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qinshu-xue/qinshu-xue.github.io"
@@ -83,10 +83,10 @@ author:
   name             : "Qinshu Xue"
   avatar           : "profile.png"
   bio              : "Ph.D. candidate <br/> Cornell University Department of Economics"
-  location         : "Ithaca, NY"
+  location         : "Shanghai, China"
   employer         :
   googlescholar    : 
-  email            : "qx48@cornell.edu"
+  email            : "qinshu.xue@sjtu.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
